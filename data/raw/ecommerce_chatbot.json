@@ -1,0 +1,86 @@
+[
+  {
+    "instruction": "How can I return a product?",
+    "input": "",
+    "output": "You can request a return for an eligible product through your order details. Select the return option and follow the instructions.",
+    "category": "return"
+  },
+  {
+    "instruction": "I want to return my order.",
+    "input": "",
+    "output": "You can request a return for an eligible product through your order details. Select the return option and follow the instructions.",
+    "category": "return"
+  },
+  {
+    "instruction": "How do I get a refund?",
+    "input": "",
+    "output": "Once an eligible return is approved and processed, the refund will be issued according to the applicable refund policy.",
+    "category": "refund"
+  },
+  {
+    "instruction": "Where is my refund?",
+    "input": "",
+    "output": "Once an eligible return is approved and processed, the refund will be issued according to the applicable refund policy.",
+    "category": "refund"
+  },
+  {
+    "instruction": "Where is my order?",
+    "input": "",
+    "output": "You can check your order status and tracking information from the order details section.",
+    "category": "order_tracking"
+  },
+  {
+    "instruction": "How can I track my order?",
+    "input": "",
+    "output": "You can check your order status and tracking information from the order details section.",
+    "category": "order_tracking"
+  },
+  {
+    "instruction": "Can I cancel my order?",
+    "input": "",
+    "output": "You can cancel an order if it has not been shipped yet. Open your order details and select the cancellation option.",
+    "category": "cancellation"
+  },
+  {
+    "instruction": "I want to cancel my purchase.",
+    "input": "",
+    "output": "You can cancel an order if it has not been shipped yet. Open your order details and select the cancellation option.",
+    "category": "cancellation"
+  },
+  {
+    "instruction": "How long does delivery take?",
+    "input": "",
+    "output": "Delivery time depends on the product, seller, and delivery location. You can check the estimated delivery date in your order details.",
+    "category": "delivery"
+  },
+  {
+    "instruction": "When will my order arrive?",
+    "input": "",
+    "output": "Delivery time depends on the product, seller, and delivery location. You can check the estimated delivery date in your order details.",
+    "category": "delivery"
+  },
+  {
+    "instruction": "My product arrived damaged.",
+    "input": "",
+    "output": "If your product arrived damaged, report the issue through the order support section and provide details about the damage.",
+    "category": "damaged_product"
+  },
+  {
+    "instruction": "I received the wrong product.",
+    "input": "",
+    "output": "If you received the wrong product, report the issue through the order support section and provide your order details.",
+    "category": "wrong_product"
+  },
+  {
+    "instruction": "What payment methods are available?",
+    "input": "",
+    "output": "Available payment methods depend on the platform and order. You can view the available payment options during checkout.",
+    "category": "payment"
+  },
+  {
+    "instruction": "Can I pay using a card?",
+    "input": "",
+    "output": "Available payment methods depend on the platform and order. You can view the available payment options during checkout.",
+    "category": "payment"
+  }
+]
